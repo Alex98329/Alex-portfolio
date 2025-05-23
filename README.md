@@ -1,6 +1,6 @@
 ## 📁 Featured Projects
 
-- [🗂 DOT Technical Test]([https://github.com/yourusername/dot-tech-test](https://github.com/Alex98329/Alex-portfolio/blob/main/Tech_test_DOT.ipynb))  
+- [🗂 DOT Technical Test](https://github.com/Alex98329/Alex-portfolio/blob/main/Tech_test_DOT.ipynb)  
   Exploratory analysis and visualizations of NYC transportation data.
 
 - [🧠 Cognitive Map for Navigation](https://github.com/yourusername/cognitive-map-vln)  
