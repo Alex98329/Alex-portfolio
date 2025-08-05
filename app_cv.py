@@ -19,9 +19,6 @@ import openai
 import os
 import tempfile
 
-# Set up your OpenAI API key
-api_key = 'sk-h7x1TSWVW6hAPFo03u7kN3LdXem2BVEQZMhfSATezXT3BlbkFJHJhpjjl3iuMhqeNnnR4SdLnfQNjnWni48nVdisow0A'
-
 # OpenAI (optional bonus feature)
 #openai.api_key = st.secrets.get(api_key, os.getenv(api_key))
 
