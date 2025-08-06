@@ -7,4 +7,4 @@
   The keypoint-based approach combines SIFT and FREAK features, aligns their indices, and uses DBSCAN to cluster matching keypoints.
 
 - [Candidate Recommendation Engine](https://github.com/Alex98329/Candidate-Recommendation-Engine.git)
-  A simple, interactive web app that ranks candidates based on how well their resumes match a given job description. Built using Streamlit, SentenceTransformers, and OpenAI GPT 4 mini.
+  A interactive web app that ranks candidates based on how well their resumes match a given job description. Built using Streamlit, SentenceTransformers, and OpenAI GPT 4 mini.
